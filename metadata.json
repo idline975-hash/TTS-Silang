@@ -1,0 +1,6 @@
+{
+  "name": "Teka-Teki Silang Hewan & Alam SD",
+  "description": "Game puzzle teka-teki silang edukatif untuk anak SD kelas 1 sampai 6 dengan tema hewan, suara hewan, habitat, dan IPA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
